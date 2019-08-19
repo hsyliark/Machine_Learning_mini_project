@@ -1,0 +1,5 @@
+8월 21일까지 둘 중 하나 실시
+
+1) 임의로 이미지 분류 (최소 1000개)
+2) cifar-10, cifar-100 분류 실시 (https://www.cs.toronto.edu/~kriz/cifar.html)
+
