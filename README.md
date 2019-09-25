@@ -1,6 +1,6 @@
 # Machine_Learning_mini_project
 
-## Machine Learning mini project
+## Machine Learning mini project 
 
 과학기술정보통신부 주관 '빅데이터를 활용한 스마트데이터 전문가 양성과정' (190527 ~ 191108) 관련 기계학습 미니 프로젝트
 
